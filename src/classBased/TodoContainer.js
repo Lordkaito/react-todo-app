@@ -1,8 +1,8 @@
 import React from 'react';
 import { v4 as uuidv4 } from 'uuid';
-import TodosList from './TodoList';
-import Header from '../Header';
-import InputTodo from './InputTodo';
+import TodosList from './components/TodoList';
+import Header from './components/Header';
+import InputTodo from './components/InputTodo';
 
 class TodoContainer extends React.Component {
   state = {
