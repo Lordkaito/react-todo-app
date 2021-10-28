@@ -18,7 +18,9 @@
     "no-alert": "off",
     "arrow-body-style": "off",
     "object-shorthand": "off",
-    "prefer-const": "off"
+    "prefer-const": "off",
+    "class-methods-use-this": "off",
+    "no-use-before-define": "off"
   },
   "ignorePatterns": [
     "dist/",
